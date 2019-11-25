@@ -3,6 +3,7 @@
  			background-image: url("../images/bg.jpg");
 			background-repeat: repeat;
 			background-size: 313px 144px;
+  			overflow-x:hidden;
 		}
 
         .D1{
@@ -183,7 +184,7 @@
             -webkit-animation-play-state: paused;
             animation-play-state: paused;
         }
-        .pic{width:50%; height:50%;position:relative;z-index:1;}
+        .pic{width:10%; height:10%;position:relative;z-index:3;}
 		.pic img{transform:scale(1,1);transition: all 1s ease-out;}
 		.pic img:hover{transform:scale(1.2,1.2);}
         .D4{
