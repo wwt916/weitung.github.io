@@ -4,6 +4,7 @@
 			background-repeat: repeat;
 			background-size: 313px 144px;
   			overflow-x:hidden;
+ 			background-attachment: fixed;
 		}
 
         .D1{
